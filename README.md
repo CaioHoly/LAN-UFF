@@ -8,4 +8,4 @@ A divisão estrutural do projeto ocorreu da seguinte forma:
 -João Fontinele: manipulação de arquivos,designer e organização;
 -Valter: classe pessoa e suas classes filhas.
 Quaisquer outras partes do projeto,sejam ela,correção de bugs,tópicos abordados e etc,
-foram feitas de forma unida
+foram feitas em conjunto.
